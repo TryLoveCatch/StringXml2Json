@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="confirm_ok">OK</string>
+    <string name="confirm_cancel">Cancel</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+    <string name="version">Version</string>
+    <string name="about">About</string>
+	
+    <string-array name="preference_language_setting_entries" translatable="false" tools:ignore="UnusedResources">
+        <item>Auto</item>
+        <item>Bulgarian</item>
+        <item>Català</item>
+        <item>čeština</item>
+        <!--item>српски</item-->
+        <item>Deutsch</item>
+        <!--item>Dansk</item-->
+        <item>English</item>
+        <item>español</item>
+        <item>ελληνικά</item>
+        <item>Finnish</item>
+        <item>français</item>
+        <item>Hungarian</item>
+        <item>Indonesian</item>
+        <item>Italiano</item>
+        <item>Korean</item>
+        <item>Lithuanian</item>
+        <item>Nederlands</item>
+        <item>Romanian</item>
+        <item>فارسی</item>
+        <item>русский</item>
+        <item>polski</item>
+        <item>português(Brasil)</item>
+        <item>português(Portugal)</item>
+		<item>العربية</item>
+        <item>slovenských</item>
+        <item>Swedish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>தமிழ்</item>
+        <item>ئۇيغۇرچە</item>
+        <item>Ukrainian</item>
+        <item>Việt Nam</item>
+        <item>বাংলা ভাষা</item>
+        <!--item>한국의</item-->
+        <item>עברית</item>
+        <item>中文(简体)</item>
+        <item>中文(繁體)</item>
+        <item>日本語</item>
+        <item>ಕನ್ನಡ</item>
+        <item>Azərbaycan</item>        
+    </string-array>
+	
+	<plurals name="log_time_title_minute">
+        <item quantity="one">%1$d mimute ago</item>
+        <item quantity="other">%1$d mimutes ago</item>
+    </plurals>
+</resources>
